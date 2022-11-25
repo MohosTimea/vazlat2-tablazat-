@@ -1,0 +1,28 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    border:1px solid gray;
+    min-width:80px;
+}
+
+tbody tr:nth-child(even){
+    
+}
+thead tr{
+    
+}
+
+.szegely{
+    border: none;
+}
+h1{text-align: center;
+    
+@media screen and (max width:500px) {
+    article{
+        owerflow-x:scroll;
+    }
+
+    
+
